@@ -2,7 +2,7 @@
 *A set of tools to ease REST AWS Lambda functions*
 
 ## About Lambda Forest
-Lambda Forest is a microframework that provides a set of tools to make it ease to develop rest api's using the aws lambda function and api gateway. Lambda Forest attempts to make the develpment faster by easing common tasks, such as:
+Lambda Forest is a microframework that provides a set of tools to make it easier to develop rest api's using the aws lambda function and api gateway. Lambda Forest attempts to make the develpment faster by easing common tasks, such as:
 
  - Exception handling
  - Request body deserialization
